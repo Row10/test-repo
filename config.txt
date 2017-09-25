@@ -1,5 +1,5 @@
 name = Peter
-size = 100
+1 size = 1000 
 email = peter@dir.bg
 
 
