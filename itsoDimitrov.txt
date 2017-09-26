@@ -7,3 +7,6 @@ What is their name? Itso Dimitrov
 ? Where are they from? Oryahovo
 ? What hobbies/pastimes do they enjoy? Playing games and training 
 ? Why did they pick SoftUni? Becaouse i like SoftUni! 
+
+
+
