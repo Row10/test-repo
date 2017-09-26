@@ -1,1 +1,4 @@
-My name is Veronica Yordanova and I am a team leader of our organization.
+What is their name? - My name is Veronica Yordanova.
+Where are they from? I am from Targovishte, but I live in Sofia.
+What hobbies/pastimes do they enjoy? I like to read books, to travel with my friends.
+Why did they pick SoftUni? - I am in SoftUni to improve my programming skills and to find the best job for me.
