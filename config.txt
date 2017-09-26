@@ -1,7 +1,0 @@
-name = Peter
-1 size = 1000 
-email = peter@dir.bg
-
-
-
-
